@@ -3,7 +3,7 @@
 Python exercises for Vem from http://www.practicepython.org/
 
 - [X] 1: Character Input  
-- [ ] 2: Odd Or Even  
+- [X] 2: Odd Or Even  
 - [ ] 3: List Less Than Ten    
 - [ ] 4: Divisors    
 - [ ] 5: List Overlap    
