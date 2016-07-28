@@ -5,7 +5,7 @@ Python exercises for Vem from http://www.practicepython.org/
 - [X] 1: Character Input  
 - [X] 2: Odd Or Even  
 - [X] 3: List Less Than Ten    
-- [ ] 4: Divisors    
+- [X] 4: Divisors    
 - [ ] 5: List Overlap    
 - [ ] 6: String Lists    
 - [ ] 7: List Comprehensions    
