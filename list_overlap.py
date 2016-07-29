@@ -8,6 +8,3 @@ for i in a:
 
 print c
 
-# d = [1,2,3,4]
-# d.remove(3)
-# print d
