@@ -4,19 +4,19 @@ while (c == "yes"):
     a = int(raw_input("give me a number 1-3: "))
     b = int(raw_input("give me a number 1-3: "))
     if a == 1 and b == 3:
-        print "Congradulations the picker of rock!"
+        print "Congratulations the picker of rock!"
     elif a == 1 and b == 2:
-        print "Congradulations the picker of paper!"
+        print "Congratulations the picker of paper!"
     elif a == 2 and b == 3:
-        print "Congradulations the picker of scissors!"
+        print "Congratulations the picker of scissors!"
     elif a == 2 and b == 1:
-        print "Congradulations the picker of paper!"
+        print "Congratulations the picker of paper!"
     elif a == 3 and b == 1:
-        print "Congradulations the picker of rock!"
+        print "Congratulations the picker of rock!"
     elif a == 3 and b == 2:
-        print "Congradulations the picker of scissors!"
+        print "Congratulations the picker of scissors!"
     elif a == 1 and b == 1 or a == 2 and b == 2 or a == 3 and b == 3:
-        print "YOU HAPPY NOW SOUREN HUH? HUH?"
+        print "Tie"
     else:
         print "next time please pick from the numbers 1-3 thanks you"
-    c = raw_input("do you want to start a new game?: pick yes/whatever the shize you want: ")
+    c = raw_input("do you want to start a new game (yes/no)? ")
