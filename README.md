@@ -7,8 +7,8 @@ Python exercises for Vem from http://www.practicepython.org/
 - [X] 3: List Less Than Ten    
 - [X] 4: Divisors    
 - [X] 5: List Overlap    
-- [ ] 6: String Lists    
-- [ ] 7: List Comprehensions    
+- [X] 6: String Lists    
+- [X] 7: List Comprehensions    
 - [ ] 8: Rock Paper Scissors      
 - [ ] 9: Guessing Game One      
 - [ ] 10: List Overlap Comprehensions    
