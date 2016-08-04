@@ -10,7 +10,7 @@ Python exercises for Vem from http://www.practicepython.org/
 - [X] 6: String Lists    
 - [X] 7: List Comprehensions    
 - [X] 8: Rock Paper Scissors      
-- [ ] 9: Guessing Game One      
+- [X] 9: Guessing Game One      
 - [ ] 10: List Overlap Comprehensions    
 - [ ] 11: Check Primality Functions      
 - [ ] 12: List Ends  
