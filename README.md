@@ -13,8 +13,8 @@ http://www.practicepython.org/
 - [X] 7: List Comprehensions    
 - [X] 8: Rock Paper Scissors      
 - [X] 9: Guessing Game One      
-- [ ] 10: List Overlap Comprehensions    
-- [ ] 11: Check Primality Functions      
+- [X] 10: List Overlap Comprehensions    
+- [X] 11: Check Primality Functions      
 - [ ] 12: List Ends  
 - [ ] 13: Fibonacci    
 - [ ] 14: List Remove Duplicates    
