@@ -1,6 +1,8 @@
 # Vemcodes
 
-Python exercises for Vem from http://www.practicepython.org/
+## practicepython.org
+
+http://www.practicepython.org/
 
 - [X] 1: Character Input  
 - [X] 2: Odd Or Even  
