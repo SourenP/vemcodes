@@ -4,10 +4,10 @@
 
 First time
 ``` bash
-sudo apt-get install git
-git config --global user.name "vemboy"
-git config --global user.email "vem@papazian.info"
-git clone https://github.com/SourenP/vemcodes.git
+> sudo apt-get install git
+> git config --global user.name "vemboy"
+> git config --global user.email "vem@papazian.info"
+> git clone https://github.com/SourenP/vemcodes.git
 ```
 
 For every exercise
