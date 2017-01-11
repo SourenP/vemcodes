@@ -1,6 +1,36 @@
 # Vemcodes
 
-## practicepython.org
+## Instructions
+
+First time
+``` bash
+sudo apt-get install git
+git config --global user.name "vemboy"
+git config --global user.email "vem@papazian.info"
+git clone https://github.com/SourenP/vemcodes.git
+```
+
+For every exercise
+``` bash
+> cd vemcodes
+> git pull
+> cd practicepython.org
+✨ magicly solve exercise ✨
+> git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+
+    skins.py
+
+> git add skins.py
+> git commit -m "X: Skins 4 lyfe"
+> git push
+```
+
+## Exercises
+
+### practicepython.org
 
 http://www.practicepython.org/
 
